@@ -1,2 +1,10 @@
-# Logistic_Regression_Predicts_Brain_Lesions
-Undergraduate Research
+# Magnitude Estimation Performance Predicts Right Hemisphere Lesions in Stroke Patients
+Tiffany J. Munn*, Mark Mennemeier**, and Joe Crew**
+Hendrix College, Department of Psychology*, University of Arkansas for Medical Sciences, Department of Neurobiology and Developmental Science**
+
+The psychophysical function, established by Stevens (1975), quantifies the relationship between perception and an objective measure of a stimulus. Three variables are used to describe the pattern of this function: the exponent, the constant, and r-squared value. Although it has been observed that psychophysical function parameters are altered in the neurological condition spatial neglect, in this study we examine psychophysical functions in right hemisphere lesion patients with and without neglect (RHL), left hemisphere lesion patients without neglect (LHL), and control participants across a wide range of perceptual stimuli spanning 6 sensory domains.
+
+A series of one-way ANOVAs with planned contrasts for averaged psychophysical function parameters indicated that patients with RHL (N = 22) overestimated the intensity of lesser stimulus magnitudes and underestimated those of greater magnitudes when compared to controls (N=39), as indicated by decreased exponents and increased constants. RHL with neglect (N = 9) demonstrated decreased exponents compared with those without neglect.  LHL patients (N = 12) did not perform significantly different from normal controls. 
+
+Logistic regression analysis revealed that the three averaged function parameters predicated group membership (RHL or controls) successfully at a rate of 90%. Brain lesions were analyzed using subtraction techniques with the MRIcro and MRIcron software programs. Results of the imagining analysis revealed lesions related to the anterior limb of the internal capsule and superior thalamic radiations occurred more in patients with decreased exponents. Lesions related to the anterior limb and genu of the internal capsule were more likely in patients with increased constants.
+
